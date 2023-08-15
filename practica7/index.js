@@ -41,7 +41,7 @@ server.delete('/koders/:name',(request,response)=>{
 
 
 server.listen(8000, ()=>{
-    console.log("server listening onpost 8080")
+    console.log("server listening onpost 8000")
 })
 
 
